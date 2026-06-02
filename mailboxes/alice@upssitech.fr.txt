@@ -1,0 +1,4 @@
+From: otmane@amraoui.fr<
+To: alice@upssitech.fr
+bonjour, ceci est test de la version 2
+----------------------------------------
