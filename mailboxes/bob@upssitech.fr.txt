@@ -1,0 +1,9 @@
+From: otmane@amraoui.fr
+To: bob@upssitech.fr
+Objet: Test
+Ceci est un test
+----------------------------------------
+From: otmane@amraoui.fr
+To: bob@upssitech.fr
+Bonjour, ceci est un test de la version 2
+----------------------------------------
